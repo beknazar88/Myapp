@@ -1,0 +1,30 @@
+.FON{
+    padding: 30px;
+    width: 75%;
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 0 0px 10px rgba(101,101,101,.35);
+    display: flex;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+.FON p{
+    padding-left: 10px;
+}
+#Section{
+    padding: 0px 150px;
+}
+.Img{
+    display: flex;
+}
+.Line{
+    border-right: 2px solid darkgray;
+    padding-right: 103px;
+}
+.Time{
+    padding: 0px 20px;
+
+}
+.Flex{
+    display: flex;
+}

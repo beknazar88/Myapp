@@ -1,0 +1,12 @@
+.Footer{
+background: darkgray;
+padding: 20px;
+
+}
+.Icon-footer{
+    display: flex;
+
+}
+.Icon-footer1{
+    padding: 20px;
+}

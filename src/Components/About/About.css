@@ -1,0 +1,33 @@
+.Button_home{
+    border-bottom: 1px solid darkgray;
+    margin-bottom: 52px;
+    display: flex;
+
+}
+.BTN{
+    text-decoration: none;
+    border-right: 1px solid darkgray;
+    padding: 10px 52px;
+}
+#Section1{
+    padding: 0px 150px;
+
+}
+.Back_fon{
+    background-color: white;
+   height: 100vh;
+    box-shadow: 0 0px 10px rgba(101,101,101,.35);
+}
+body{
+    background-color: whitesmoke;
+}
+.Text_new{
+    margin: 10px;
+}
+.Text_h{
+    display: flex;
+    margin: 24px;
+}
+.TXT{
+    padding: 0 30px;
+}
